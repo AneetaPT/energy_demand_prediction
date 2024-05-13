@@ -1,14 +1,40 @@
-# Energy Demand Prediction
+# Daily Power Generation Forecasting
 
-This project aims to forecast daily power demand using machine learning models. It combines historical power generation data with weather data to predict future power demand.
+This project aims to forecast daily power generation using machine learning models. It combines historical power generation data with weather data to predict future power demand.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Data](#data)
+- [Models](#models)
+- [Results](#results)
+- [Contributing](#contributing)
+<!-- - [License](#license)
+- [Contact](#contact) -->
 
 ## Introduction
 
-This project leverages machine learning techniques to forecast daily power demand, which is crucial for energy management and planning. By analyzing historical power generation data alongside weather data, the project aims to predict future power demand accurately.
+This project leverages machine learning techniques to forecast daily power generation, which is crucial for energy management and planning. By analyzing historical power generation data alongside weather data, the project aims to predict future power demand accurately.
 
-## Usage
+## Getting Started
 
-To use this project, follow these steps:
+### Prerequisites
+
+- Python (>=3.6)
+- TensorFlow
+- Keras
+- Scikit-learn
+- XGBoost
+- Statsmodels
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Installation
 
 1. Clone this repository
    
@@ -40,7 +66,7 @@ The performance of each model is evaluated using metrics such as Mean Absolute E
 
 ## Contributing
 
-Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.-->
+Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 <!--## License
 
