@@ -76,9 +76,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or questions, please reach out to the project team:
 
-- **Anand C**
-  - GitHub: [anandshaji679322](https://github.com/anandshaji679322)
-  - Email: [anandshaji679322@gmail.com]
+- **NAME**
+  - GitHub: [NAME](https://github.com/johndoe)
+  - Email: [EMAIL ID]
 
 - **NAME**
   - GitHub: [NAME](https://github.com/johndoe)
